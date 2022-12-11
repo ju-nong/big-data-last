@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="114248d2-e6b5-4ea0-8921-0dbae23d59c2" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/범죄발생총건수.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/202044062_이준용_11주차.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/202044062_이준용_11주차.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/거주지이동인구.csv" beforeDir="false" afterPath="$PROJECT_DIR$/거주지이동인구.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/범죄발생및검거현황.csv" beforeDir="false" afterPath="$PROJECT_DIR$/범죄발생및검거현황.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/범죄발생및검거현황.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,12 +28,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Il0CWXNUF6TYgig2FMM0T2Oqjo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -48,11 +54,17 @@
       <option name="presentableId" value="Default" />
       <updated>1670740735705</updated>
       <workItem from="1670740737343" duration="309000" />
-      <workItem from="1670741057017" duration="1614000" />
+      <workItem from="1670741057017" duration="14679000" />
+      <workItem from="1670758380024" duration="40000" />
+      <workItem from="1670758454984" duration="53000" />
+      <workItem from="1670758515585" duration="4078000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
